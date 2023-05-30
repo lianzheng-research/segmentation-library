@@ -16,7 +16,7 @@ A concise summary of each paper is provided to outline its motivation and main c
 
 | Source | Method | Title | Summary |
 |:------:|:------:|:----- |:------- |
-| ICCV 2021 | Segmenter | Segmenter: Transformer for Semantic Segmentation [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.pdf) [code](https://github.com/rstrudel/segmenter) | Segmenter is a Transformer model for semantic segmentation. It obtains class labels from visual embeddings with a point-wise linear decoder or a Mask Transformer decoder. |
+| ICCV 2021 <br> | Segmenter | Segmenter: Transformer for Semantic Segmentation [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.pdf) [code](https://github.com/rstrudel/segmenter) | Segmenter is a Transformer model for semantic segmentation. It obtains class labels from visual embeddings with a point-wise linear decoder or a Mask Transformer decoder. |
 
 ## backbones
 
