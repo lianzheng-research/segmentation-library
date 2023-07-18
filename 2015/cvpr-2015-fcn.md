@@ -1,1 +1,2 @@
-## fcn
+## Fully Convolutional Networks for Semantic Segmentation
+FCN is the first dense prediction framework trained end-to-end from supervised pre-training. It takes input of arbitrary size and produces correspondingly-sized output. A skip architecture is defined to combine semantic information from a deep, coarse layer with appearance information from a shallow, fine layer to produce accurate and detailed segmentations.
